@@ -1,0 +1,89 @@
+body{
+    color: white;
+    background-color: #EE66BB;
+}
+
+canvas{
+    background-image: url("yoshi1.png");
+}
+
+div{
+    font-size: 15px;
+}
+
+#big{
+    font-size: 110px;
+}
+
+#fuckDiv{
+    position: absolute;
+    left: 1620px;
+    top: 200px;
+}
+
+#killerDiv{
+    position: absolute;
+    left: 1620px;
+    top: 335px;
+}
+
+#altDiv{
+    position: absolute;
+    left: 1620px;
+    top: 420px;
+}
+#consortDiv{
+    position: absolute;
+    left: 1780px;
+    top: 480px;
+}
+#topkillerDiv{
+    position: absolute;
+    left: 1640px;
+    top: 585px;
+}
+
+button{
+    background-color: "#22EE44";
+}
+#B1{
+    background-color: "#22EE44";
+}
+#B2{
+    background-color: "#22EE44";
+}
+#B3{
+    background-color: "#22EE44";
+}
+#B4{
+    background-color: "#22EE44";
+}
+#B5{
+    background-color: "#22EE44";
+}
+
+#button1{
+    position: absolute;
+    left: 1546px;
+    top: 200px;
+}
+#button2{
+    position: absolute;
+    left: 1546px;
+    top: 335px;
+}
+#button3{
+    position: absolute;
+    left: 1546px;
+    top: 420px;
+}
+#button4{
+    position: absolute;
+    left: 1546px;
+    top: 480px;
+}
+#button5{
+    position: absolute;
+    left: 1546px;
+    top: 585px;
+}
